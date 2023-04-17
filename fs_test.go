@@ -27,8 +27,7 @@ import (
 	"testing"
 	"time"
 
-	. "github.com/useflyent/fhttp"
-	"github.com/useflyent/fhttp/httptest"
+	"github.com/ShizuAutomations/fhttp/httptest"
 )
 
 const (

@@ -13,8 +13,6 @@ import (
 	"strconv"
 	"strings"
 	"testing"
-
-	. "github.com/useflyent/fhttp"
 )
 
 var sniffTests = []struct {

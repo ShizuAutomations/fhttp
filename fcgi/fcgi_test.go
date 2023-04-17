@@ -11,7 +11,7 @@ import (
 	"strings"
 	"testing"
 
-	http "github.com/useflyent/fhttp"
+	http "github.com/ShizuAutomations/fhttp"
 )
 
 var sizeTests = []struct {
